@@ -1,0 +1,87 @@
+﻿## Type/Kind of Enslavement Options
+
+* Slave
+* Servant
+* Indentured servant
+* Man slave
+* Man servant
+* Woman servant
+* Indenture, court-ordered
+* Indenture, voluntary
+* Indenture, parental
+* Indenture 
+
+## Origin Options
+
+* Pueblo de Pauto
+* Pueblo de Casanare
+* Casanave
+* Bermuda 
+
+## Nation Options
+
+* Mohegan
+* Unspecified
+* Wampanoag
+* Bocotora 
+
+## Sex Options
+
+* Male
+* Female
+* Unspecified
+
+## Owner Vocation Options
+
+* Pastor
+* Farmer
+* Lawyer
+* Merchant
+* Baker
+* Maltster
+* Ship Captain
+* Shopkeeper
+* Leatherer
+* Sadler
+* Mariner
+* Cordwainer 
+
+## Race Options
+
+* India
+* Mulatto
+* Mustee
+* Indian
+* Surinam Indian
+* Carolina Indian
+* Martha's Vineyard Indian
+* Spanish Indian
+* West India Mulatto
+* Indio
+* Indian Mulatto
+* Criollo
+
+## Status Options
+
+* Enslaved
+
+
+## Title Options
+
+* Esq
+* Mr.
+* Capt.
+* Don
+* Mistress
+* Captain
+* Fray 
+
+## Name Type Options
+
+* Baptismal
+* Indian
+* English
+* Alias
+* Nickname
+* European 
+
